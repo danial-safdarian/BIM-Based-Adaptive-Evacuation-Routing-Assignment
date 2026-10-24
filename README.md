@@ -3,7 +3,7 @@ This repository contains the research materials supporting the study
 “BIM-Based Adaptive Evacuation Route Assignment Considering Fear Perception and Exit Congestion.”
 ## Repository contents
 - Python code for the proposed framework and time-only routing approach.
-- Raw Python-generated output data for Scenarios 2–10 under both routing approaches.
+- Dynamo script used to extract the spatial coordinates of representative nodes inside the building.
 - Anonymized individual-level questionnaire responses and a codebook describing the variables and response coding.
 ## Supplementary Information
 The Supplementary Information file accompanying the manuscript contains the following appendices:
