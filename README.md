@@ -4,7 +4,6 @@ This repository contains the research materials supporting the study
 ## Repository contents
 - Python code for the proposed framework and time-only routing approach.
 - Raw Python-generated output data for Scenarios 2–10 under both routing approaches.
-- The Revit building model used in the case study.
 - Anonymized individual-level questionnaire responses and a codebook describing the variables and response coding.
 ## Supplementary Information
 The Supplementary Information file accompanying the manuscript contains the following appendices:
